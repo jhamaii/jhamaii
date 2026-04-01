@@ -23,12 +23,12 @@
 ## 🎀 About Me
 
 ```
-╔══════════════════════════════════════╗
-║  🌸 Name    : Jhamaica               ║
-║  🎀 Alias   : jhamaii                ║
-║  🌍 Location: Philippines 🇵🇭         ║
-║  💻 Hobbies : Coding 💻 + Gaming 🎮  ║
-╚══════════════════════════════════════╝
+╔════════════════════════════╗
+║  🌸 Name    : Jhamaica          ║
+║  🎀 Alias   : jhamaii           ║
+║  🌍 Location: Philippines       ║
+║  💻 Hobbies : Coding + Gaming   ║
+╚════════════════════════════╝
 ```
 
 ---
