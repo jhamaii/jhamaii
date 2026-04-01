@@ -35,7 +35,7 @@
 
 ## 🐱 My Tech Stack
 
-<img src="https://skillicons.dev/icons?i=python,js,ts,react,html,css,git,vscode&theme=light" />
+<img src="https://skillicons.dev/icons?i=python,js,html,css,vscode&theme=light" />
 
 ---
 
