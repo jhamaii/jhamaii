@@ -5,10 +5,15 @@
 <br/>
 
 ```
-   ／l、
-  （ﾟ､ ｡ ７ 
-    l  ~ヽ
-    じしf_,)ノ
+ ╔═══════════════════════════╗
+ ║                               ║
+ ║            /\_/\              ║
+ ║           ( o.o )             ║
+ ║            > ^ <              ║
+ ║           /|   |\             ║
+ ║          (_|   |_)            ║
+ ║                               ║
+ ╚═══════════════════════════╝
 ```
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
@@ -21,8 +26,8 @@
 ╔══════════════════════════════════════╗
 ║  🌸 Name    : Jhamaica               ║
 ║  🎀 Alias   : jhamaii                ║
-║  🌍 Location: Philippines            ║
-║  💻 Hobbies : Coding  + Gaming       ║
+║  🌍 Location: Philippines 🇵🇭         ║
+║  💻 Hobbies : Coding 💻 + Gaming 🎮  ║
 ╚══════════════════════════════════════╝
 ```
 
@@ -36,15 +41,15 @@
 
 ## 🌸 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=jhamaii&show_icons=true&theme=rose_pine&title_color=FF91A4&icon_color=FF91A4&text_color=ffffff&bg_color=ffcce0&border_color=FF91A4&border_radius=15" height="160"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=jhamaii&show_icons=true&title_color=FF91A4&icon_color=FF91A4&text_color=FF91A4&bg_color=1a0010&border_color=FF91A4&border_radius=15" height="160"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhamaii&layout=compact&theme=rose_pine&title_color=FF91A4&text_color=ffffff&bg_color=ffcce0&border_color=FF91A4&border_radius=15" height="160"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jhamaii&layout=compact&title_color=FF91A4&text_color=FF91A4&bg_color=1a0010&border_color=FF91A4&border_radius=15" height="160"/>
 
 ---
 
 ## 🎀 Streak Stats
 
-<img src="https://streak-stats.demolab.com?user=jhamaii&theme=soft-green&background=FFD6E7&border=FF91A4&stroke=FF91A4&ring=FF91A4&fire=FF4D6D&currStreakNum=FF4D6D&sideNums=FF4D6D&currStreakLabel=FF91A4&sideLabels=FF91A4&dates=FF91A4&border_radius=15"/>
+<img src="https://streak-stats.demolab.com?user=jhamaii&theme=soft-green&background=1a0010&border=FF91A4&stroke=FF91A4&ring=FF91A4&fire=FF4D6D&currStreakNum=FF91A4&sideNums=FF91A4&currStreakLabel=FF91A4&sideLabels=FF91A4&dates=FF91A4&border_radius=15"/>
 
 ---
 
@@ -55,7 +60,6 @@
 🎀🌸🐱🌸🎀🌸🐱🌸🎀🌸🐱🌸🎀🌸🐱🌸🎀
 
 ---
-
 
 <img src="https://komarev.com/ghpvc/?username=jhamaii&color=FF91A4&style=for-the-badge&label=VISITORS" />
 
