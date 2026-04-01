@@ -21,8 +21,8 @@
 ╔══════════════════════════════════════╗
 ║  🌸 Name    : Jhamaica               ║
 ║  🎀 Alias   : jhamaii                ║
-║  🌍 Location: Philippines 🇵🇭         ║
-║  💻 Hobbies : Coding 💻 + Gaming 🎮  ║
+║  🌍 Location: Philippines            ║
+║  💻 Hobbies : Coding  + Gaming       ║
 ╚══════════════════════════════════════╝
 ```
 
